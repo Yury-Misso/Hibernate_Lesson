@@ -5,7 +5,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Урок JDBC</title>
+    <title>Урок Hibernate</title>
     <style>
         body, html {
             height: 100%;
@@ -57,7 +57,7 @@
 <body>
 
 <div class="center-container">
-    <h1>Урок JDBC</h1>
+    <h1>Урок Hibernate</h1>
 
     <h2>Задания:</h2>
     <ul>

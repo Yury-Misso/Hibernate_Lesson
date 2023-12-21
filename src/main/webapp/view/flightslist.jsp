@@ -5,7 +5,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Урок JDBC Список самолетов</title>
+    <title>Hibernate lesson Список полетов</title>
     <style>
         .my-style-input {
             font-family: 'San Francisco', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -141,7 +141,7 @@
             let params = getAllParam();
 
             let baseUrl = window.location.origin;
-            let endpoint = "/jdbclesson/flightslist";
+            let endpoint = "/hibernatelesson/flightslist";
             let fullUrl = baseUrl + endpoint;
 
             let formData = objectToFormData(params);
@@ -190,7 +190,7 @@
 
 
             let baseUrl = window.location.origin;
-            let endpoint = "/jdbclesson/flightslist";
+            let endpoint = "/hibernatelesson/flightslist";
             let fullUrl = baseUrl + endpoint;
 
             let formData = objectToFormData(params);

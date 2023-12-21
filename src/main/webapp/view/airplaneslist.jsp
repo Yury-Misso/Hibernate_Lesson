@@ -5,7 +5,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Урок JDBC Список самолетов</title>
+    <title>Hibernate lesson Список самолетов</title>
     <style>
         body, html {
             height: 100%;
